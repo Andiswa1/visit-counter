@@ -7,6 +7,7 @@
   $git commit -m "get file" 
   $git log
   $git remote add origin git@github.com:Andiswa1/visit-counter.git
+  ```
   
  ## created countlog.txt
  
@@ -15,7 +16,7 @@
   $git add countlog.php
   $git commit -m "get file"
   $git log
-  $git remote add origin git@github.com:Andiswa1/visit-counter.git,  
+  $git remote add origin git@github.com:Andiswa1/visit-counter.git 
   
  ## installed docker using these step:
  
