@@ -20,7 +20,7 @@
   $git remote add origin git@github.com:Andiswa1/visit-counter.git 
   ```
   
- ## installed docker using these step
+ ## Installed docker using these step
  ```
  
  
@@ -136,7 +136,6 @@ docker run --rm \
  ```
  
  # Acknowledgments
- ```
  
  Code adapted from http://justintadlock.com/web-design/counter
  ```
