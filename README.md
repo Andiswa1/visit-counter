@@ -1,5 +1,6 @@
 # Installed php and apache using these step: 
  >https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
+ ```
   $touch counter.php
   $nano counter.php
   $git add counter.php
