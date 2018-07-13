@@ -138,7 +138,6 @@ docker run --rm \
  # Acknowledgments
  
  Code adapted from http://justintadlock.com/web-design/counter
- ```
  
  Docker image extended from https://hub.docker.com/_/php/
  ```
