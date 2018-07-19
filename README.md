@@ -75,6 +75,10 @@
  
  Two core concepts are conveyed in the vanilla example: 1) how to build your own docker from Dockerfile, and 2) how to mount a volume inside of a docker.
  ```
+ # Change file permissions of countlog.txt to add write access for all
+ ```
+  chmod a+w scripts/countlog.txt
+  ```
  
  ## How to build
  ```
